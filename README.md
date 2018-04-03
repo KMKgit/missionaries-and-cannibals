@@ -12,10 +12,9 @@ pip install pyDatalog
 git clone https://github.com/KMKgit/missionaries-and-cannibals.git
 ```
 
-## Running the tests
+### Running the tests
 
-parameter) python3 missionaries-and-cannibals "number of missionaries" "number of cannibals"
-
+there are two parameters ("number of missionaries" "number of cannibals")
 ```
 python3 missionaries-and-cannibals.py 3 3
 ```
