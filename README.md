@@ -20,12 +20,12 @@ python3 missionaries-and-cannibals.py 3 3
 ```
 
 ## Author
-Myeongkil Kim
-Information Security Student
-Pusan National University, San-30, JangJeon-Dong, GeumJeong-Gu
+Myeongkil Kim \
+Information Security Student \
+Pusan National University, San-30, JangJeon-Dong, GeumJeong-Gu \
 Busan, 609-735, Republic of Korea
 
 ## Acknowledgments
-https://github.com/pcarbonn/pyDatalog
-https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
+https://github.com/pcarbonn/pyDatalog \
+https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem \
 https://en.wikipedia.org/wiki/Breadth-first_search
